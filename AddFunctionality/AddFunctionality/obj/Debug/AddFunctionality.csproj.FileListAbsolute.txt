@@ -1,0 +1,7 @@
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\bin\Debug\AddFunctionality.exe.config
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\bin\Debug\AddFunctionality.exe
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\bin\Debug\AddFunctionality.pdb
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\obj\Debug\AddFunctionality.csproj.AssemblyReference.cache
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\obj\Debug\AddFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\obj\Debug\AddFunctionality.exe
+C:\Users\apeksha.k_int1592\source\repos\AddFunctionality\AddFunctionality\obj\Debug\AddFunctionality.pdb
